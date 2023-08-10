@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Bermúdez (di3boss)</h1>
 <h3 align="center">A passionate full stack developer from Barcelona.</h3>
 
-- 🔭 I’m currently working on [ISDI Coders (as Developer and assistant teacher)](https://isdicoders.com/)
+- 🔭 I’m currently working for [Bridgestone Mobility Solutions as associate software engineer](https://bridgestone-emia.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
