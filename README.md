@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Diego Bermúdez (di3boss)</h1>
+<h1 align="center">👋 Hi, I'm Diego Bermúdez (di3boss)</h1>
 <h3 align="center">A passionate full stack developer from Barcelona.</h3>
 
 - 🔭 I’m currently working for [Bridgestone Mobility Solutions as associate software engineer](https://bridgestone-emia.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/di3boss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="di3boss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diegofbermudez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegofbermudez" height="30" width="40" /></a>
 </p>
 
