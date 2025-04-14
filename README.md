@@ -67,7 +67,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=di3boss&theme=radical&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=di3boss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=di3boss&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created by di3boss with GPRM ( https://gprm.itsvg.in ) -->
